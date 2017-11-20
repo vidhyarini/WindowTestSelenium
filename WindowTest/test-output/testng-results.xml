@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12626" started-at="2017-11-20T10:22:31Z" finished-at="2017-11-20T10:22:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12626" started-at="2017-11-20T10:22:31Z" finished-at="2017-11-20T10:22:44Z">
+      <class name="com.test.TestWindow">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.TestWindow@28d25987]" name="setup" is-config="true" duration-ms="5196" started-at="2017-11-20T11:22:31Z" finished-at="2017-11-20T11:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setGetWinSize()[pri:0, instance:com.test.TestWindow@28d25987]" name="setGetWinSize" duration-ms="142" started-at="2017-11-20T11:22:36Z" finished-at="2017-11-20T11:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setGetWinSize -->
+        <test-method status="PASS" signature="setGetWinPosition()[pri:0, instance:com.test.TestWindow@28d25987]" name="setGetWinPosition" duration-ms="74" started-at="2017-11-20T11:22:36Z" finished-at="2017-11-20T11:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setGetWinPosition -->
+        <test-method status="PASS" signature="SecondWindow()[pri:0, instance:com.test.TestWindow@28d25987]" name="SecondWindow" duration-ms="7191" started-at="2017-11-20T11:22:36Z" finished-at="2017-11-20T11:22:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondWindow -->
+      </class> <!-- com.test.TestWindow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
